@@ -1,0 +1,15 @@
+VERSIÓN PHP
+para entrar se ingresa con correo electronico y contraseña
+
+|NOMBRE       |FECHA NACIMIENTO|CORREO	      |CONTRASEÑA
+
+|carlos	Godoy |1987/07/10      |cjcs@mis.com  |123456
+
+|Pepito Perez |2002/01/11      |Pepito@msn.com|123456
+
+|Roberto Gomez|1998/01/06      |Robert@msn.com|123456
+
+
+|CORREO	      	 |CONTRASEÑA
+
+|cjcs@dominio.com|123456
